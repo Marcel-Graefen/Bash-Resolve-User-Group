@@ -11,7 +11,7 @@
 #
 # @requires    : Bash 3.0+
 #
-# @see         : https://github.com/Marcel-Graefen/
+# @see         : https://github.com/Marcel-Graefen/Bash-Resolve-User-Group
 #
 # @copyright   : Copyright (c) 2025 Marcel Gräfen
 # @license     : MIT License

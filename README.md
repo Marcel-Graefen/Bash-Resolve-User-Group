@@ -1,7 +1,7 @@
 # 📋 Bash User and Group Resolver
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
-[![German](https://img.shields.io/badge/Language-Deutsch-blue)](./README.de.md)
+[![German](https://img.shields.io/badge/Language-German-blue)](./README.de.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel-Graefen/Bash-INI-Parser)
 [![Author](https://img.shields.io/badge/author-Marcel%20Gr%C3%A4fen-green.svg)](#-author--contact)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)

@@ -126,8 +126,7 @@ Die Funktion interagiert mit den folgenden globalen Variablen:
   * **`SET_GID`**: Kann mit einer numerischen Gruppen-ID vordefiniert werden. Nach dem Aufruf enthält es die validierte GID.
   * **`SHOW_WARNING`**: Eine optionale Variable. Wenn sie auf `"true"` gesetzt ist, gibt die Funktion Warnungen bei Fallback-Szenarien aus.
 
-[!NOTE]
-Die Prüfung von `SHOW_WARNING` ist eine umgekehrte abfrage. Nur wenn `SHOW_WARNING == false` ist wird KEINE Warnung ausgegeben.
+> ⚠️ **Note:** Die Prüfung von `SHOW_WARNING` ist eine umgekehrte abfrage. Nur wenn `SHOW_WARNING == false` ist wird KEINE Warnung ausgegeben.
 
 -----
 

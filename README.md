@@ -127,8 +127,8 @@ The function interacts with the following global variables:
   * **`SET_GID`**: Can be predefined with a numerical group ID. After the call, it contains the validated GID.
   * **`SHOW_WARNING`**: An optional variable. If set to `"true"`, the function outputs warnings during fallback scenarios.
 
-[!NOTE]
-The check for `SHOW_WARNING` is a reverse query. Only when `SHOW_WARNING == false` is no warning issued.
+
+> ⚠️ **Note:** The check for `SHOW_WARNING` is a reverse query. Only when `SHOW_WARNING == false` is no warning issued.
 
 -----
 

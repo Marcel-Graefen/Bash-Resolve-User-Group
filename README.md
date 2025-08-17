@@ -1,11 +1,10 @@
 # 📋 Bash User and Group Resolver
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
+[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/Marcel-Graefen/Bash-Resolve-User-Group/releases/tag/0.0.1)
 [![German](https://img.shields.io/badge/Language-German-blue)](./README.de.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel-Graefen/Bash-INI-Parser)
 [![Author](https://img.shields.io/badge/author-Marcel%20Gr%C3%A4fen-green.svg)](#-author--contact)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
-![](https://komarev.com/ghpvc/?username=Marcel-Graefen)
 
 A robust and flexible Bash function that validates and resolves user and group information to ensure consistent ownership variables (`SET_USER`, `SET_GROUP`, etc.).
 
